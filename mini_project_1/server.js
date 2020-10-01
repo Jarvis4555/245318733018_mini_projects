@@ -21,19 +21,19 @@ class HandlerGenerator {
           }
         );
         // return the JWT token for the future API calls
-        res.json({
+        res.status(400).send({
           success: true,
           message: 'Authentication successful!',
           token: token
         });
       } else {
-        res.json({
+        res.status(403).send({
           success: false,
           message: 'Incorrect username or password'
         });
       }
     } else {
-      res.json({
+      res.status(422).send({
         success: false,
         message: 'Authentication failed! Please check the request'
       });
