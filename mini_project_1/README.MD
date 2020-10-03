@@ -19,9 +19,21 @@
 ### Prerequisites
 * Installation of Node.js and MongoDB
 ### Installation
-1. Clone the repo : git clone https://github.com/sathwikreddy56/245318733012.git
-2. Navigate into Directory : cd MP1
-3. Install NPM packages : npm install
+1. Clone the repo  
+```
+git clone https://github.com/Jarvis4555/245318733018_mini_projects.git
+```
+2. Navigate into Directory 
+```
+cd Mini_Project_1
+```
+3. Install NPM packages 
+```
+npm install
+```
 ## Executing program
-1. Intializing server : npm start
+1. Intializing server 
+```
+npm start
+```
 2. Open postman and send queries
