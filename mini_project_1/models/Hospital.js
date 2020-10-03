@@ -8,6 +8,7 @@ const HSchema = new Schema({
     },
     name:{
         type:String,
+        required:[true,'Id field is required']
     },
 });
 const hospital = mongoose.model('Hospital',HSchema);

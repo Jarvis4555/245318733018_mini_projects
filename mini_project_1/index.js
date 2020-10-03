@@ -2,6 +2,9 @@ const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
+const dotenv = require('dotenv');
+
+dotenv.config()
 
 
 //connecting server file for awt
@@ -11,9 +14,9 @@ let middleware=require('./middleware');
 
 mongoose.set('useFindAndModify', false);
 mongoose.connect(
-    'mongodb://127.0.0.1:27017/Mini_Project_1',
-    { useUnifiedTopology: true , useNewUrlParser: true }
-    );
+    process.env.DB_Connect,
+    { useUnifiedTopology: true , useNewUrlParser: true },
+    () => console.log("Connected to db!"));
 mongoose.Promise = global.Promise;
 
 
