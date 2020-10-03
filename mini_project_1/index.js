@@ -30,7 +30,7 @@ app.use(function(err,req,res,next){
     res.status(400).send({error:err.message});
 });
 
-// app.get('/',(req,res) =>{
+// app.get('/hello',(req,res) =>{
 //     res.send('hello world');
 // }) 
 
