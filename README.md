@@ -23,7 +23,7 @@
 
 
 
-[![Spotify](https://gitnowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://gitnowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/3cpguvtvdy6gsonahgjg0136a?si=izaaSWQaSLSh5N9X38klww)
 
 
 
