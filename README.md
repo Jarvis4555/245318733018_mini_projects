@@ -21,14 +21,22 @@
 <code><img height="20" src="https://camo.githubusercontent.com/66a1645d7bba4fb68b45ecb54d914787c6c61fb1/68747470733a2f2f6173736574732e676574706f73746d616e2e636f6d2f636f6d6d6f6e2d73686172652f706f73746d616e2d6c6f676f2d686f72697a6f6e74616c2d333230783133322e706e67"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/c/c7/Dialogflow_logo.svg"></code>
 
-
+### Spotify Playing 🎧
 
 [![Spotify](https://gitnowplaying.vercel.app/api/spotify)](https://open.spotify.com/user/3cpguvtvdy6gsonahgjg0136a?si=izaaSWQaSLSh5N9X38klww)
 
-
-
-
+<!--- 
+<code><img height="20" src="http://simpleicons.org/icons/slack.svg"></code>
 social
 http://simpleicons.org/icons/slack.svg
 http://simpleicons.org/icons/discord.svg
 http://simpleicons.org/icons/linkedin.svg
+--->
+
+
+
+  <p align="center">
+    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img                                                                  src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+  </p>                                                                  
