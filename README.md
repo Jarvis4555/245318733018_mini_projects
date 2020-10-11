@@ -45,6 +45,6 @@ http://simpleicons.org/icons/linkedin.svg
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/anuraghazra/github-readme-stats/api?username=Jarvis4555&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats1-lzanhm2da.vercel.app/api?username=Jarvis4555&show_icons=true&hide_border=true" />
 
 </details>
